@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/488624ef-2108-4832-ad76-f9aee913835a
 # Sentimental-Analysis-using-Machine-Learning
 ### Demo Video
 

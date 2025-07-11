@@ -1,4 +1,12 @@
+
+https://github.com/user-attachments/assets/488624ef-2108-4832-ad76-f9aee913835a
 # Sentimental-Analysis-using-Machine-Learning
+### Demo Video
+
+
+https://github.com/user-attachments/assets/8189221e-6e21-43ca-90f2-b56194e611ac
+
+
 # Sentiment Analysis Project
 
 ## 📌 Project Overview
@@ -38,3 +46,12 @@ This project performs **Sentiment Analysis** on textual data to classify input a
 
 ## NEGATIVE REVIEW
 <img width="1919" height="1079" alt="Screenshot 2025-07-10 022703" src="https://github.com/user-attachments/assets/d7969318-cc40-4ef5-9443-5570f3891d47" />
+
+
+### Demo Video
+
+
+https://github.com/user-attachments/assets/3dbc55b4-7739-4de4-b02f-d789e2cb1a51
+
+
+

@@ -29,11 +29,12 @@ This project performs **Sentiment Analysis** on textual data to classify input a
 ---
 
 ## 📂 Project Structure
-## 📷 Screenshots
-
-### 🔹 Home Page of the App
-![Home Page](C:\Users\asus\Pictures\Screenshots\Screenshot 2025-07-10 022634.png)
+## 📷HOME PAGE
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 022634" src="https://github.com/user-attachments/assets/3a7d4e1e-c848-4032-b243-ac1f11899217" />
 
 ### 🔹 Prediction Output
-![Prediction Result](C:\Users\asus\Pictures\Screenshots\Screenshot 2025-07-10 022729.png)
+## POSITIVE REVIEW
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 022729" src="https://github.com/user-attachments/assets/c11de806-a162-45bf-aa11-95d18a15007a" />
 
+## NEGATIVE REVIEW
+<img width="1919" height="1079" alt="Screenshot 2025-07-10 022703" src="https://github.com/user-attachments/assets/d7969318-cc40-4ef5-9443-5570f3891d47" />
